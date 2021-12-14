@@ -1,5 +1,5 @@
 struct XLibraryCode {
-    var text = "Welcome to Auto After Dark for Merchants!"
+    var text = "Welcome to Commerce Pro Cloud Onboarding Service!"
 }
 <?php
 /**
