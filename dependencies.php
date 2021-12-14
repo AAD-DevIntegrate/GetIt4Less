@@ -1,6 +1,3 @@
-struct GI4L {
-    var text = "Welcome to Get It 4 Less with Auto After Dark!"
-}
 <?php
 /**
  * The onboarding module services.
