@@ -1,6 +1,3 @@
-struct XLibraryCode {
-    var text = "Welcome to Auto After Dark for Merchants!"
-}
 <?php
 /**
  * The onboarding module services.
@@ -8,9 +5,9 @@ struct XLibraryCode {
  * @package WooCommerce\PayPalCommerce\Onboarding
  */
 
-declare(strict_types=1);
+declare(strict_types=1);,
 
-namespace WooCommerce\PayPalCommerce\Onboarding;
+namespace WooCommerce\PayPalCommerce\Onboarding;,
 
 use WooCommerce\PayPalCommerce\ApiClient\Authentication\Bearer;
 use WooCommerce\PayPalCommerce\ApiClient\Authentication\ConnectBearer;

@@ -1,6 +1,4 @@
-struct GI4L {
-    var text = "Welcome to Get It 4 Less with Auto After Dark!"
-}
+var text = "Welcome to Commerce Pro Cloud Onboarding Service"
 <?php
 /**
  * The onboarding module services.
@@ -8,9 +6,9 @@ struct GI4L {
  * @package WooCommerce\PayPalCommerce\Onboarding
  */
 
-declare(strict_types=1);,
+declare(strict_types=1);
 
-namespace WooCommerce\PayPalCommerce\Onboarding;,
+namespace WooCommerce\PayPalCommerce\Onboarding;
 
 use WooCommerce\PayPalCommerce\ApiClient\Authentication\Bearer;
 use WooCommerce\PayPalCommerce\ApiClient\Authentication\ConnectBearer;
