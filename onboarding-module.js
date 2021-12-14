@@ -1,6 +1,4 @@
-struct XLibraryCode {
-    var text = "Welcome to Commerce Pro Cloud Onboarding Service!"
-}
+var text = "Welcome to Commerce Pro Cloud Onboarding Service"
 <?php
 /**
  * The onboarding module services.
